@@ -26,7 +26,7 @@ panel = Panel(banner,title="Created by L0sTS0ul3",border_style="bold green")
 
 console.print(panel,style="bold red")
 
-dis = "This tool is made only for education purpose only "
+dis = "This tool is made  for education purpose only "
 
 panel = Panel(dis,subtitle="Disclaimer",border_style="bold blue") 
 
